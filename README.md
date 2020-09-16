@@ -13,8 +13,8 @@ All of them respecting unit tests previously created.
 
 (pt-br)
 
-Foi desenvolvido uma api rest em NODEjs (EXPRESS) que manipula transações financeiras e balanços em um padrao de projeto com routes, models, services e repositorios
+Foi desenvolvido uma api rest em NODEjs (EXPRESS) que manipula transações financeiras e balanços em um padrao de projeto com routes, models, services e repositorios.
 
-Aborda também assuntos como tratamentos de erros, regras de negócios, inversão de depedência, interfaces, DTO, TypeScript, tipagem e outros
+Aborda também assuntos como tratamentos de erros, regras de negócios, inversão de depedência, interfaces, DTO, TypeScript, tipagem e outros.
 
 Todas elas respeitando testes unitários preveamente criados.
